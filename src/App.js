@@ -210,6 +210,7 @@ function App () {
             <div className='pulse'>
               <button onClick={onClickRightArmPulseLeft}>Rotação Esquerda</button><button onClick={onClickRightArmPulseRight}>Rotação Direita</button>
             </div>
+            <p>GitHub <a href="https://github.com/KarolMondadori/RoboReactNDD">LINK</a></p>
             </div>
           </div>
         </header>
